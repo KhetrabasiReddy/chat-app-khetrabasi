@@ -10,7 +10,7 @@ A real-time chat application built with modern web technologies, enabling users 
 ## 🛠️ Technologies Used
 
 - **Frontend:** React.js
-- **Database:** irebase
+- **Database:** firebase
 - **Authentication:** Firebase Auth
 
 ## 📌 Prerequisites
